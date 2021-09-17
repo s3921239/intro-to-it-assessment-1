@@ -1,0 +1,47 @@
+body {
+  background-color: white;
+  margin-top: 5px;
+
+}
+img {
+  filter:         drop-shadow(5px 5px 5px #222);
+}
+
+.main-content {
+  background-color: lightgray;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  border-radius: 7px;
+
+}
+
+.accordion-button {
+  background-color: darkgrey;
+  color: whitesmoke;
+
+}
+
+.accordion-button:focus {
+  background-color: darkgrey;
+  color: whitesmoke;
+  box-shadow: none;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: darkgrey;
+  color: whitesmoke;
+  font-weight: bolder;
+
+}
+
+.img-thumbnail {
+  width: 5%;
+  height: auto;
+
+}
+
+#alex_pic {
+  height: 90%;
+  border-radius: 50%;
+
+}
