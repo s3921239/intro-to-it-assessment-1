@@ -16,6 +16,10 @@ img {
 
 }
 
+h5 {
+  color: black;
+}
+
 .header {
   color: black;
 
@@ -49,5 +53,11 @@ img {
 #alex_pic {
   height: 90%;
   border-radius: 50%;
+
+}
+
+#copyright {
+  text-align: center;
+  color: black;
 
 }
